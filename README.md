@@ -2,10 +2,17 @@
 <h4 style="padding-left: 30px;">📊&nbsp;<strong>Data Analyst&nbsp;| 💻Aspiring learner</strong></h4>
 <p>&nbsp;</p>
 <h2>&diams;<span style="text-decoration: underline;">About Me:</span></h2>
-<p style="text-align: left; padding-left: 30px;">🌱 I&rsquo;m currently learning Data Analysis Skills and Tools<br />💞️ I&rsquo;m looking to collaborate on Data Analysis Projects.<br />📫 I believe in continuous learning and enjoy to sharing this on my LinkedIn Profile.</p>
-<p style="text-align: left;">&nbsp;</p>
+<p style="text-align: left;">&nbsp; &nbsp; &diams;&nbsp;I&rsquo;m a Data Analyst with a strong background in data preparation, visualization, and reporting using Python libraries, SQL, Excel, Power BI, Power Query Editor, Tableau and Tableau Prep Builder. Proven ability to uncover insights and drive business decisions with clean and reliable data processing.</p>
+<p>&nbsp;</p>
 <h2 style="text-align: left;">&diams;<span style="text-decoration: underline;">Skills</span></h2>
 <p style="padding-left: 30px;">- Proficient in Python (Pandas, NumPy, Seaborn, Matplotlib, Plotly), SQL, Power BI, Tableau and Excel (Pivot Tables, Power Query, DAX).<br /> - Data Analysis:&nbsp;Data preparation, cleaning, and analysis using Python libraries, Power Query editor and Tableau Prep builder.<br /> - Database Management: MySQL.<br /> - Data Visualization: Creating dashboards using Excel, Tableau and Power BI.</p>
+<p style="padding-left: 30px;">&nbsp;</p>
+<h2>&diams;<span style="text-decoration: underline;">My Dashboards Sample</span></h2>
+<ul>
+<li style="padding-left: 30px;"><span style="text-decoration: underline;"><a href="https://drive.google.com/drive/folders/1J1A_p5c8ywg8Hqjbg-yup_FMfjHdoLVU?usp=sharing">Denmark Houses Price Power BI Dashboard</a></span></li>
+<li style="padding-left: 30px;"><span style="text-decoration: underline;"><a href="https://drive.google.com/drive/folders/1k7y54zpobE2VQ1evB1bciRu3EJtXR8TM?usp=sharing">supermarket branches Sales Power BI Dashboard</a></span></li>
+</ul>
+<p>&nbsp;</p>
 <p style="padding-left: 30px;">&nbsp;</p>
 <h2>&diams;<span style="text-decoration: underline;">Get in Touch</span></h2>
 <p style="padding-left: 30px;">Linkedin Profile:&nbsp;<a title="LinkedIn profile" href="https://www.linkedin.com/in/mohamed-hamed-82b784224/">Mohamed Hamed</a></p>
