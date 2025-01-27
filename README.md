@@ -9,11 +9,11 @@
 <p style="padding-left: 30px;">&nbsp;</p>
 <h2>&diams;<span style="text-decoration: underline;">My Dashboards Sample</span></h2>
 <ul>
-<li style="padding-left: 30px;"><span style="text-decoration: underline;"><a href="https://drive.google.com/drive/folders/1J1A_p5c8ywg8Hqjbg-yup_FMfjHdoLVU?usp=sharing">Denmark Houses Price Power BI Dashboard</a></span></li>
-<li style="padding-left: 30px;"><span style="text-decoration: underline;"><a href="https://drive.google.com/drive/folders/1k7y54zpobE2VQ1evB1bciRu3EJtXR8TM?usp=sharing">supermarket branches Sales Power BI Dashboard</a></span></li>
+<li style="padding-left: 30px;"><span style="text-decoration: underline;"><a href="https://drive.google.com/drive/folders/1J1A_p5c8ywg8Hqjbg-yup_FMfjHdoLVU?usp=sharing">Denmark Houses Price Power BI Dashboard &gt;Python&amp;Power BI</a></span></li>
+<li style="padding-left: 30px;"><span style="text-decoration: underline;"><a href="https://drive.google.com/drive/folders/1k7y54zpobE2VQ1evB1bciRu3EJtXR8TM?usp=sharing">supermarket branches Sales Power BI Dashboard &gt; Power BI</a></span></li>
+<li style="padding-left: 30px;"><span style="text-decoration: underline;"><a href="https://drive.google.com/drive/folders/1ncocfYDVs1r4f5hKa2cLiZxNHhCmR2J8?usp=sharing">Restaurant branches sales &gt;Excel</a></span></li>
 </ul>
 <p>&nbsp;</p>
-<p style="padding-left: 30px;">&nbsp;</p>
 <h2>&diams;<span style="text-decoration: underline;">Get in Touch</span></h2>
 <p style="padding-left: 30px;">Linkedin Profile:&nbsp;<a title="LinkedIn profile" href="https://www.linkedin.com/in/mohamed-hamed-82b784224/">Mohamed Hamed</a></p>
 <p style="padding-left: 30px;">Email Address:&nbsp;<a href="mailto:mohamed.hamed.101994@gmail.com">mohamed.hamed.101994@gmail.com</a></p>
