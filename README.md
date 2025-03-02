@@ -7,7 +7,7 @@
 <p style="text-align: left;">&nbsp; &nbsp; &diams;&nbsp;I&rsquo;m a data analyst with strong experience in data preparation, analysis, visualization, and reporting using Python, SQL, Excel, Power BI, Power Query Editor, Tableau, and Tableau Prep Builder. I have a proven ability to uncover insights and support business decisions through accurate statistical analysis and simplified interactive dashboards.</p>
 <p>&nbsp;</p>
 <h2 style="text-align: left;">&diams;<span style="text-decoration: underline;">Skills</span></h2>
-<p style="padding-left: 30px;">- Proficient in Python (Pandas, NumPy, Seaborn, Matplotlib, Plotly), SQL, Power BI, Tableau and Excel (Pivot Tables, Power Query, DAX).<br /> - Data Analysis:&nbsp;Data preparation, cleaning, and analysis using Python libraries, Power Query editor and Tableau Prep builder.<br /> - Database Management: MySQL.<br /> - Data Visualization: Creating dashboards using Excel, Tableau and Power BI.</p>
+<p style="padding-left: 30px;">- Proficient in Python (Pandas, NumPy, Seaborn, Matplotlib, Plotly), SQL, Power BI, Tableau and Excel (Pivot Tables, Power Query, DAX).<br /> - Data Analysis:&nbsp;Data preparation, cleaning, and analysis using Python libraries, Power Query editor and Tableau Prep builder.<br /> - Database Management: SQL.<br /> - Data Visualization: Creating dashboards using Excel, Tableau and Power BI.</p>
 <p>&nbsp;</p>
 <h2>&diams;<span style="text-decoration: underline;">My Dashboards Sample</span></h2>
 <ul>
