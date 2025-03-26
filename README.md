@@ -1,4 +1,4 @@
-<h2 class="heading-element" dir="auto">Hi there!, I&rsquo;m Mohamed Hamed Ahmed</h2>
+<h2 class="heading-element" dir="auto">Hi there!, I&rsquo;m Mohamed Hamed</h2>
 <h4 style="padding-left: 30px;">📊&nbsp;<strong>Data Analyst&nbsp;| 💻Aspiring learner</strong></h4>
 <h3 style="text-align: center;">Click For &loz;&nbsp;&nbsp;<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://drive.google.com/file/d/1COkg0znAgib0G9S-_jRe3gZQyFTl4eNc/view?usp=sharing">My Resume </a>&nbsp;&amp; <a style="color: #0000ff;" href="https://datascienceportfol.io/mokaml98210">My Portfolio</a>&nbsp;&nbsp;</span>&loz;</h3>
 <p>&nbsp;</p>
