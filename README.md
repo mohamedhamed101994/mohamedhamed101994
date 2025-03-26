@@ -1,6 +1,6 @@
 <h2 class="heading-element" dir="auto">Hi there!, I&rsquo;m Mohamed Hamed</h2>
 <h4 style="padding-left: 30px;">📊&nbsp;<strong>Data Analyst&nbsp;| 💻Aspiring learner</strong></h4>
-<h3 style="text-align: center;">Click For &loz;&nbsp;&nbsp;<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://drive.google.com/file/d/1COkg0znAgib0G9S-_jRe3gZQyFTl4eNc/view?usp=sharing">My Resume </a>&nbsp;&amp; <a style="color: #0000ff;" href="https://datascienceportfol.io/mokaml98210">My Portfolio</a>&nbsp;&nbsp;</span>&loz;</h3>
+<h3 style="text-align: center;">Click For &loz;&nbsp;<span style="color: #0000ff;">&nbsp;<a style="color: #0000ff;" href="https://datascienceportfol.io/mokaml98210">My Portfolio</a>&nbsp;&nbsp;</span>&loz;</h3>
 <p>&nbsp;</p>
 <h2>&diams;<span style="text-decoration: underline;">About Me:</span></h2>
 <p style="text-align: left;">&nbsp; &nbsp; &diams;&nbsp;I&rsquo;m a data analyst with strong experience in data preparation, analysis, visualization, and reporting using Python, SQL, Excel, Power BI, Power Query Editor, Tableau, and Tableau Prep Builder. I have a proven ability to uncover insights and support business decisions through accurate statistical analysis and simplified interactive dashboards.</p>
