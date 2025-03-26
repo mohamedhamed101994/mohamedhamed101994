@@ -1,8 +1,7 @@
 <h2 class="heading-element" dir="auto">Hi there!, I&rsquo;m Mohamed Hamed Ahmed</h2>
 <h4 style="padding-left: 30px;">📊&nbsp;<strong>Data Analyst&nbsp;| 💻Aspiring learner</strong></h4>
-<h3 style="text-align: center;">&loz; Click for&nbsp;<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://drive.google.com/file/d/1COkg0znAgib0G9S-_jRe3gZQyFTl4eNc/view?usp=sharing">My Resume</a></span>&nbsp;&loz;</h3>
+<h3 style="text-align: center;">Click For &loz;&nbsp;&nbsp;<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://drive.google.com/file/d/1COkg0znAgib0G9S-_jRe3gZQyFTl4eNc/view?usp=sharing">My Resume </a>&nbsp;&amp; <a style="color: #0000ff;" href="https://datascienceportfol.io/mokaml98210">My Portfolio</a>&nbsp;&nbsp;</span>&loz;</h3>
 <p>&nbsp;</p>
-<h3>&nbsp;</h3>
 <h2>&diams;<span style="text-decoration: underline;">About Me:</span></h2>
 <p style="text-align: left;">&nbsp; &nbsp; &diams;&nbsp;I&rsquo;m a data analyst with strong experience in data preparation, analysis, visualization, and reporting using Python, SQL, Excel, Power BI, Power Query Editor, Tableau, and Tableau Prep Builder. I have a proven ability to uncover insights and support business decisions through accurate statistical analysis and simplified interactive dashboards.</p>
 <p>&nbsp;</p>
@@ -11,9 +10,9 @@
 <p>&nbsp;</p>
 <h2>&diams;<span style="text-decoration: underline;">My Dashboard Samples</span></h2>
 <ul>
-<li style="padding-left: 30px;"><span style="text-decoration: underline;"><a href="https://drive.google.com/drive/folders/1FZBaYH7vs80oucfv93KUwInQX_5XCm1u?usp=sharing">Dubai Real states analysis &gt;Power BI</a></span></li>
-<li style="padding-left: 30px;"><span style="text-decoration: underline; color: #0000ff;"><a style="color: #0000ff; text-decoration: underline;" href="https://drive.google.com/drive/folders/1J1A_p5c8ywg8Hqjbg-yup_FMfjHdoLVU?usp=sharing">Denmark Houses Price Power BI Dashboard &gt;Python&amp;Power BI</a></span></li>
-<li style="padding-left: 30px;"><span style="text-decoration: underline; color: #0000ff;"><a style="color: #0000ff; text-decoration: underline;" href="https://drive.google.com/drive/folders/1k7y54zpobE2VQ1evB1bciRu3EJtXR8TM?usp=sharing">supermarket branches Sales Power BI Dashboard &gt; Power BI</a></span></li>
+<li style="padding-left: 30px;"><span style="text-decoration: underline; color: #0000ff;"><a style="text-decoration: underline; color: #0000ff;" href="https://app.powerbi.com/view?r=eyJrIjoiYTdjNTg0MmUtNWZjNC00NmRiLTgwZmItYTllZWNlOGMyOWMxIiwidCI6ImUzNjMyMjYxLTUzMjMtNDJkNC04YWY4LWYyMjgyZThiNzc5ZCJ9">Dubai Real states analysis &gt;Power BI Dashboard</a></span></li>
+<li style="padding-left: 30px;"><span style="text-decoration: underline; color: #0000ff;"><a style="color: #0000ff; text-decoration: underline;" href="https://app.powerbi.com/view?r=eyJrIjoiOGFmZWQzODktODdkZC00N2QyLWI1ODAtZDZmZDYyMTQ2OGIzIiwidCI6ImUzNjMyMjYxLTUzMjMtNDJkNC04YWY4LWYyMjgyZThiNzc5ZCJ9">Denmark Houses Price Power BI Dashboard</a></span></li>
+<li style="padding-left: 30px;"><span style="text-decoration: underline; color: #0000ff;"><a style="color: #0000ff; text-decoration: underline;" href="https://app.powerbi.com/view?r=eyJrIjoiODZlYTE4MjAtNGQwNy00ZWYyLWIzYTgtY2Y3ZjJiZmRjNTM1IiwidCI6ImUzNjMyMjYxLTUzMjMtNDJkNC04YWY4LWYyMjgyZThiNzc5ZCJ9">supermarket branches Sales Power BI Dashboard</a></span></li>
 <li style="padding-left: 30px;"><span style="text-decoration: underline; color: #0000ff;"><a style="color: #0000ff; text-decoration: underline;" href="https://drive.google.com/drive/folders/1ncocfYDVs1r4f5hKa2cLiZxNHhCmR2J8?usp=sharing">Restaurant branches sales &gt;Excel</a></span></li>
 </ul>
 <p>&nbsp;</p>
